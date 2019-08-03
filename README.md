@@ -5,7 +5,7 @@ A project created by students to provide an informative service
 ## Install local env
 1 --- Create local virtualenv
 ```bash
-python -m virtualenv .venv
+python3 -m virtualenv .venv
 ```
 2 --- Activate local virtualenv
 ```bash
