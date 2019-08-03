@@ -1,7 +1,7 @@
 <h1>RAUW</h1>
 A project created by students to provide an informative service
 
-<h3>Install local env</h3>
+##Install local env
 1 --- Create local virtualenv
 ```
 python -m virtualenv .venv
@@ -15,15 +15,15 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-<h3>Development</h3>
+##Development
 - [requests](https://2.python-requests.org/en/master/) for http requests.
 
-<h3>Testing</h3>
+##Testing
 - [beautifulsoup4](https://pypi.org/project/beautifulsoup4/) HTML adn XML parser.
 - [selenium](https://www.seleniumhq.org/docs/)  automates browsers.
 - [unittest](https://pythonworld.ru/moduli/modul-unittest.html) standart python package for unit testing.
 
-<h3>Linters</h3>
+##Linters
 - [pylint](https://pypi.org/project/pylint/) python code static checker.
 - [isort](https://pypi.org/project/isort/) your python imports for you so you don’t have to.
 
